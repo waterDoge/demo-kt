@@ -4,7 +4,6 @@ spring:
     table: _schema_history
   datasource:
     username: root
-    password: q469097550
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/demo?useSSL=false
   jackson:
